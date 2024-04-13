@@ -1,0 +1,7 @@
+rossi 3 31-01-23 12 T4 1d3
+verdi 4 31-01-23 12 T1 34f
+alberti 7 31-01-23 14 T3 e3r
+bianchi 2 31-01-23 12 T10 s2h
+rossi 4 01-02-23 21 T9 s7y
+verdi 8 01-02-23 19 T1 aq5
+baldini 5 31-01-23 12 T7 qw7
